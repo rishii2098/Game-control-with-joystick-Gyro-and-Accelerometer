@@ -16,3 +16,6 @@ Bhargavi Upperla – Tasked with constructing the Game Control with Joystick, Gy
 Rishab Vyas – Tasked with creating the code to interpret the joystick movements. Implemented buzzer function.
 
 Jairus Morrow – Tasked with creating the schematic and creating the code to interpret MPU-6050 position data. Created code for bonus mode.
+
+
+YouTube Video link: https://youtu.be/6onnkIBmaUo
